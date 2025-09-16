@@ -3,9 +3,6 @@
 
 A RESTful API built with Node.js and Express that simulates core banking operations. This system allows users to create accounts, manage funds, transfer money between users, and maintain transaction history with secure JWT authentication.
 
-[![Node.js](https://img.shields.io/badge/Node.js-14%2B-green?logo=node.js)](https://nodejs.org/)   
-[![MongoDB](https://img.shields.io/badge/MongoDB-Database-brightgreen?logo=mongodb)](https://www.mongodb.com/)  
-[![Jest](https://img.shields.io/badge/Tests-Jest-orange?logo=jest)](https://jestjs.io/)  
 
 ## Features
 
