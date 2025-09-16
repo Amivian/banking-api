@@ -1,4 +1,4 @@
-````markdown
+
 # Banking API
 
 A RESTful API built with Node.js and Express that simulates core banking operations. This system allows users to create accounts, manage funds, transfer money between users, and maintain transaction history with secure JWT authentication.
@@ -6,7 +6,7 @@ A RESTful API built with Node.js and Express that simulates core banking operati
 
 ## Features
 
-- **User Management**
+- *User Management*
   - User registration with email and password
   - Secure user authentication using JWT tokens
   - Password hashing with bcrypt
